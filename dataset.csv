@@ -1,0 +1,13 @@
+pesan,label
+"Selamat! Anda memenangkan hadiah gratis",spam
+"Klik link ini untuk mendapatkan uang",spam
+"Promo spesial, klaim hadiah sekarang",spam
+"Anda mendapatkan bonus besar hari ini",spam
+"Menangkan hadiah dengan mengisi formulir",spam
+"Halo, apakah tugas kuliah sudah selesai",bukan_spam
+"Besok kita ada jadwal praktikum",bukan_spam
+"Jangan lupa mengumpulkan laporan hari ini",bukan_spam
+"Terima kasih atas bantuanmu kemarin",bukan_spam
+"Nanti kita bertemu di kampus",bukan_spam
+"Transfer uang sekarang untuk hadiah",spam
+"Ayo belajar bersama di perpustakaan",bukan_spam
